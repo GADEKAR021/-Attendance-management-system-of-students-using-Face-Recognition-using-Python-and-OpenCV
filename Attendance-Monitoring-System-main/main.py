@@ -1,4 +1,4 @@
-# import cv2
+# import cv2 #hii
 # cap = cv2.VideoCapture(0)
 # cap.set(3, 720)
 # cap.set(4, 480)
